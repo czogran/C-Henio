@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1508105848 source:d:\pawel\pri\projekt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funk.h"
+	"test.h"
+
+1508105848 source:d:\pawel\pri\projekt\file.c
+	"funk.h"
+	<stdio.h>
+	<stdlib.h>
+
+1508106201 d:\pawel\pri\projekt\funk.h
+
+1507976430 d:\pawel\pri\projekt\test.h
+	"funk.h"
+
+1508353420 source:d:\pawel\pri\projekt\test.c
+	"test.h"
+	"funk.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
